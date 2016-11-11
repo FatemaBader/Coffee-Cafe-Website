@@ -1,0 +1,289 @@
+body {
+	background-image: url("http://www.magic4walls.com/wp-content/uploads/2014/01/coffee-beans-cup-saucer-sugar-cup-saucer.jpg");
+}
+#banner img{
+	width:300px;
+	height:120px;
+	-webkit-filter: blur(1px);
+}
+#map{
+	display:inline;
+	float:center;
+}
+h2 {
+	font-family: Matura MT Script Capitals;
+	font-weight: bold;
+	text-indent: 350px;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 10px;
+	color: #662200;
+	font-size:50px;
+	background-image:url("http://magic927977.net/assets/images/banner_coffee2.jpg");
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-top-color:black;
+	margin-left:100px;
+	margin-right:100px;
+	text-shadow: 9px 0 black;
+}
+#Login{
+	position:inline;
+	float:right;
+	color:white;
+	margin-right:20px;
+	margin-top:90px;
+}
+#rem{
+	text-indent:260px;
+	margin-right:90px;
+}
+
+#navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+	font-size:22px;
+}
+a:link, a:visited {
+    display: inline;
+    width: 120px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: left;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: brown;
+}
+a.two:hover{
+	width:200px;
+	height:200px;
+
+}
+#beans img{
+	height:80px;
+	width:80px;
+	display:inline;
+	margin-top:5px;
+	margin-left:800px;
+	margin-top:50px;
+}
+
+#header {
+	position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	margin-left:100px;
+	margin-right:100px;
+}
+#gmap_canvas img{
+	width:100px;
+	height:100px;
+	display:inline;
+}
+#pictures img{
+	display:block-inline;
+	width:990px;
+	height:400px;
+	float:right;
+	margin-right:100px;
+	margin-top:-390px;
+}
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+	
+}
+
+li {
+	display: inline;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #cc0323;
+	width:100px;
+	
+}
+#left img:first-child{
+	width:40px;
+	height:40px;
+	display:inline;
+}
+#left img:hover{
+	-webkit-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	transform: scale(1.2);
+}
+#left img:nth-child(2){
+	width:40px;
+	height:40px;
+	display:inline;
+}
+#left img:nth-child(3){
+	width:40px;
+	height:40px;
+	display:inline;
+	
+}
+
+#right img{
+	width: 400px;
+	height: 300px;
+	margin-left:200px;
+	margin-top: -120px;
+	margin-bottom:10px;
+	float:middle;
+	margin-right:30px;
+	display:inline;
+	z-index:10;
+	border-style:solid;
+}
+
+h1{
+	font-size:30px;
+	text-shadow: 3px 0 black;
+	color:#b35900;
+	font-family: Verdana;
+	margin-left:200px;	
+}
+#menu{
+	font-size:40px;
+	text-shadow: 3px 0 black;
+	color:#b35900;
+	font-family: Verdana;
+	text-indent:200px;
+	margin-right:60px;
+	margin-top:-150px;
+}
+#Contact{
+	font-size:40px;
+	text-shadow: 3px 0 black;
+	color:#b35900;
+	font-family: Verdana;
+	text-indent:200px;
+	margin-right:60px;
+	margin-top:-130px;
+}
+#bout{
+	font-size:40px;
+	text-shadow: 3px 0 black;
+	color:#b35900;
+	font-family: Verdana;
+	text-indent:100px;
+	margin-right:100px;
+	margin-left:100px;
+	margin-top:-130px;
+	background-color:black;
+}
+
+#para{
+	text-align:center;
+	font-family: Verdana;
+	background-color:black;
+	color:white;
+	margin-right:100px;
+	text-indent:100px;
+	margin-left:100px;
+}
+table{
+	margin-left:200px;
+    border: 1px solid black;
+	color:white;
+	background-image: url("http://static1.squarespace.com/static/53419270e4b0d2725feea9ce/t/542de55fe4b0f766b2e858e6/1412294004620/Reclaimed+Brown+Board,+Original+Surface-Wire+Brushed,+Unfinished---Paneling.jpg");
+	
+}
+td {
+	margin-left:200px;
+    border: 1px solid black;
+	color:white;
+	background-color:#ffecb3
+}
+.drink{
+	color:black;
+	font-size:20px;
+	font-family:Arial Black;
+}
+th{
+	font-size:60px;
+	color:#4d3900;
+	font-family:Rage Italic;
+	margin-left:200px;
+	text-shadow: 3px 0 black;
+	float:left;
+}
+td img {
+	height: 100px;
+	width: 120px;
+	box-shadow: none;
+}
+form{
+	margin-left:200px;
+	color:black;
+}
+.details{
+	font-weight: bold;
+	color:white;
+	font-size:20px;
+	text-decoration:
+}
+#submit{
+	color:white;
+	text-indent:0px;
+}
+
+#captcha img{
+	width:160px;
+	height:50px;
+	margin-left:0px;
+}
+#footer{
+	clear: both;
+	position: relative;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	height: 75px;
+	background-image:url("http://magic927977.net/assets/images/banner_coffee2.jpg");
+	margin-left:10px;
+	margin-left:100px;
+	margin-right:100px;
+	padding:10px;
+}
+
+#button{
+	border: 2px solid #000000;
+	float:left;
+	position: relative;
+	left: 229px;
+	bottom: -20px;
+	border-radius: 5px;
+	background-color: #cc0323;
+	height: 30px;
+	width: 150px;
+	
+}
+
+#button p{
+	position: relative;
+	bottom: 10px;
+	font-size: 0.8em;
+	color: #acd1b2;
+	text-align: center;
+}
+
+.bold{
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 1.2em;
+	font-variant: small-caps;
+	color: #ffffff;
+}
